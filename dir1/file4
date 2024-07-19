@@ -1,0 +1,4 @@
+git reset commands
+git reset -soft
+git reset -mixed
+git reset -hard[A[A(staging to work space)[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D(local machine to work space)[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D(delet the file)
